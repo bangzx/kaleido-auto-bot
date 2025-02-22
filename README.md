@@ -12,4 +12,7 @@ cd kaleido-auto-bot
 pip install -r requirements.txt
 python bot.py
 ```
+## Edit file wallets.txt
+file wallets.txt masukin wallet yang sudah daftar kaleido masukin 1 line 1 baris biar bisa run banyak wallet atau 1 wallet saja 
+
 ![](kaleido.png)
